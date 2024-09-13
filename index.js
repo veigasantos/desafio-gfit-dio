@@ -23,8 +23,11 @@ git push -u origin main
 1 - git add .
 2 - git commit -m "Descrição da atualização"
 3 - git push -u origin main // envia para o GitHub
+4 - git push    
 
 */
 
-console.log("Olá Git");
-console.log("teste");
+const nome = "Charles";
+const sobrenome = "Veiga Santos";
+
+console.log(`Meu nome é ${nome} ${sobrenome}`);

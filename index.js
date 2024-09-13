@@ -18,3 +18,4 @@ git push -u origin main
 */
 
 console.log("Olá Git");
+console.log("teste");
